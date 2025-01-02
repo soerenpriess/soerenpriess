@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I´m currently completing my Master's degree in Applied Computer Science and working as a working student<br>🔍 In my spare time, I develop web applications, games and am interested in IT security.<br><br><br>Check out my latest project: 🌐 https://crypto-msg.com
+🔭 I´m currently completing my Master's degree in Applied Computer Science and working as a working student<br>🔍 In my spare time, I develop web applications, games and am interested in IT security.<br><br><br>Check out my latest project: 🌐 https://riftgameshub.com
 
 
 ## 🌐 Socials:
