@@ -27,7 +27,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/doppelkorn69) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_priess__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soeren-priess) 
 
 ## 🏗️ Projects
-[Rift Games Hub](https://riftgameshub.com/)
+[Rift Games Hub](https://riftgameshub.com/) <br>
 [Crypto Message](https://crypto-msg.com/)
 
 # 💻 Tech Stack:
