@@ -1,7 +1,3 @@
-# 💫 About Me:
-👨🏼‍💻 I currently work as a full-stack web developer.<br>🎓 Master of Science in Applied Computer Science with a specialization in human-computer interaction.<br>🔍 In my spare time, I develop web applications, games and am interested in IT security.
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/doppelkorn69) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_priess__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soeren-priess) 
 
