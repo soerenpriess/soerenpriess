@@ -3,6 +3,8 @@
 
 ## 🏗️ Projects
 [Rift Games Hub](https://riftgameshub.com/) <br>
+[Steam Library Compare](https://steamlibrarycompare.com/) <br>
+[World Run](https://worldrun.app/) <br>
 [Crypto Message](https://crypto-msg.com/) <br>
 [Omniflow](https://omniflow.dev/)
 
